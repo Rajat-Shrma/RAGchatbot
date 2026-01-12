@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-chroma
+langchain-core
+langchain-google-genai
+langchain-anthropic
+anthropic
+google-generativeai
+langchain-huggingface
+transformers
+huggingface-hub
+chromadb
+sentence-transformers
+fastapi
+streamlit
+python-multipart
