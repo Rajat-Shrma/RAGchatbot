@@ -2,7 +2,7 @@ import streamlit as st
 from sidebar import display_sidebar
 from chat_interface import display_chat_interface
 
-st.title('Langchain RAG Scheme Advisor')
+st.title('Langchain RAG Chatbot')
 
 if 'messages' not in st.session_state:
     st.session_state.messages= []

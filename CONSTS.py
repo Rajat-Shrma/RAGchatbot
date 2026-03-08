@@ -27,6 +27,6 @@ vectorstore = Chroma(
         persist_directory ='chroma_db'
     )
 
-retriever = vectorstore.as_retriever(search_kwargs = {"k":1})
+retriever = vectorstore.as_retriever(search_kwargs = {"k":2})
 
 
